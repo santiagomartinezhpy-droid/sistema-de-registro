@@ -4,4 +4,4 @@
 
 Para ejecutra el programa, debes poner:
 
-´´´npm install react´´´
+´´´npm install react´´´´
